@@ -1,3 +1,14 @@
-﻿Console.WriteLine("Hello, C# Academy! one more modification"); Console.WriteLine("Hello, C# Academy! one more modification"); Console.WriteLine("Hello, C# Academy! one more modification");
-Console.WriteLine("Hello, C# Academy! one more modification"); Console.WriteLine("Hello, C# Academy! one more modification");
-Console.WriteLine("Hello, C# Academy! one more modification");
+﻿void MyFirstMethod()
+{
+   // Do Something
+}
+
+void MySecondMethod()
+{
+    // Do Something
+}
+
+void MyThirdMethod()
+{
+    // Do Something
+}
